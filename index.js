@@ -1,4 +1,4 @@
-const animal = ""
+const animal = "cat"
 
 function myAnimal() {
   let animal = myAnimal
